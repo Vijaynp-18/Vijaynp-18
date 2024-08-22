@@ -1,36 +1,55 @@
-<h1 align="center">Hi 👋, I'm Vijay Prakash</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/720555/screenshots/4029449/desk.gif">
+<h2 align="left">Hi 👋! My name is Vijay Prakash<br>A passionate Data Analyst from Karnataka</h2>
 
+###
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=vijaynp-18" alt="vijaynp-18" /></a> </p>
+<div align="center">
+  <img height="400" src="https://media.licdn.com/dms/image/v2/C4D12AQEeKAn9dPLbhw/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1616667695311?e=1729728000&v=beta&t=9MBWv8g2ky1FLjYrxm63umlwmC7j-MJ6Uo35Q-JMuys"  />
+</div>
 
-<p align="left"> <a href="https://twitter.com/viratviju18" target="blank"><img src="https://img.shields.io/twitter/follow/viratviju18?logo=twitter&style=for-the-badge" alt="viratviju18" /></a> </p>
+###
 
-- 🌱 I’m currently learning **Data Science**
+<h3 align="center">Tech Skills</h3>
 
-- 👨‍💻 All of my projects are available at [https://github.com/Vijaynp-18](https://github.com/Vijaynp-18)
+###
 
-- 📫 How to reach me **vijaynp18@gmail.com**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/anaconda/44A833" height="30" alt="anaconda logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="30" alt="github logo"  />
+</div>
 
-- 📄 Know about my experiences [https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a8a5416e6b499ee33eeb1e](https://resume-builder-test-new.masaischool.com/resume/public?resumeId=66a8a5416e6b499ee33eeb1e)
+###
 
-- ⚡ Fun fact **Big fan of hiking, travelling, Driving, Cooking etc. and often integrate data analytics into my passion projects.**
+<h3 align="center">Let's Connect!</h3>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/viratviju18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="viratviju18" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/vijay-prakash18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vijay-prakash18" height="30" width="40" /></a>
-<a href="https://fb.com/virat viju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="virat viju" height="30" width="40" /></a>
-<a href="https://instagram.com/itz_me_virat_viju" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="itz_me_virat_viju" height="30" width="40" /></a>
-</p>
+###
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="left">
+  <a href="vijaynp18@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://www.instagram.com/itz_me_virat_viju" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/vijay-prakash18/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.facebook.com/Virat Viju" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vijaynp-18&show_icons=true&locale=en&layout=compact" alt="vijaynp-18" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vijaynp-18&show_icons=true&locale=en" alt="vijaynp-18" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vijaynp-18&" alt="vijaynp-18" /></p>
+###
 
